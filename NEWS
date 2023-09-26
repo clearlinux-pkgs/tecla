@@ -1,0 +1,25 @@
+NEW in 45.0
+===========
+- Added shortcuts to exit the dialog
+- Fix UI in RTL environments
+- Fix a11y initialization
+- Translation updates
+
+NEW in 45.rc
+============
+- Handle 105 key layouts
+- Handle keymap variants in commandline arguments
+- Fix overeager keymap listener overriding commandline
+  arguments.
+- Build fixes for NixOS
+- Add .pc file for build-time detection
+- Fix included license
+- Translation updates
+
+NEW in 45.beta
+===============
+- Translation updates
+
+NEW in 45.alpha
+===============
+- Initial release

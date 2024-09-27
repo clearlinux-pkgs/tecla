@@ -1,3 +1,18 @@
+NEW in 47.0
+===========
+- Translation updates
+
+NEW in 47.rc
+============
+- Add --parent-handle command line option to integrate
+  as a "modal dialog".
+- Translation updates
+
+NEW in 47.beta
+==============
+- Translation updates
+- Set window icon
+
 NEW in 46.0
 ===========
 - Translation updates
